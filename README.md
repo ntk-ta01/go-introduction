@@ -1,0 +1,1 @@
+https://engineering.mercari.com/blog/entry/goforbeginners/ で公開されているプログラミング言語Go完全入門の勉強記録。
